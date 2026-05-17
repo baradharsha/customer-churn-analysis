@@ -31,3 +31,11 @@ This project analyzes customer data to identify patterns of churn.
 ## 📊 Analysis Screenshot
 
 ![Contract vs Churn](contract_vs_churn2.png.png)
+## 📊 Monthly Charges Analysis
+
+![Monthly Charges vs Churn](monthly_charges_vs_churn.jpeg)
+
+## 📈 Insight
+
+- Customers with higher monthly charges are more likely to churn.
+- Pricing plays a key role in customer retention.
