@@ -27,9 +27,6 @@ This project analyzes customer data to identify patterns of churn.
 - Customers with one-year and two-year contracts are more stable.
 - Long-term contracts significantly reduce customer churn.
 
-## 📊 Analysis Screenshot
-
-![Contract vs Churn](contract_vs_churn.png.jpeg)
 
 ## 📊 Analysis Screenshot
 
