@@ -39,3 +39,18 @@ This project analyzes customer data to identify patterns of churn.
 
 - Customers with higher monthly charges are more likely to churn.
 - Pricing plays a key role in customer retention.
+## 🤖 Machine Learning Model
+
+A Random Forest Classifier was used to predict customer churn.
+
+### Model Performance:
+- Accuracy: 78.9%
+- Strong performance in predicting non-churn customers
+- Moderate performance in predicting churn customers due to class imbalance
+
+### Tools Used:
+- Python
+- Pandas
+- Scikit-learn
+
+📁 Notebook: customer_churn_prediction.ipynb
